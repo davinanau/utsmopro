@@ -1,11 +1,11 @@
 [
-  {
-    "coffe_id": 1,
-    "coffe_title": "Caffè Latte",
-    "coffe_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
-    "coffee_thumbnails": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Latte_at_Doppio_Ristretto_Chiang_Mai_01_%28cropped%29.jpg/330px-Latte_at_Doppio_Ristretto_Chiang_Mai_01_%28cropped%29.jpg"
-    "coffe_poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Caff%C3%A8_latte_as_being_served_at_Kaffebrenneriet_Torshov%2C_Oslo%2C_Norway_2_600x600_100KB.jpg/300px-Caff%C3%A8_latte_as_being_served_at_Kaffebrenneriet_Torshov%2C_Oslo%2C_Norway_2_600x600_100KB.jpg"
-  },
+{
+  "coffe_id": 1,
+  "coffe_title": "Caffè Latte",
+  "coffe_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+  "coffee_thumbnails": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Latte_at_Doppio_Ristretto_Chiang_Mai_01_%28cropped%29.jpg/330px-Latte_at_Doppio_Ristretto_Chiang_Mai_01_%28cropped%29.jpg",
+  "coffe_poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Caff%C3%A8_latte_as_being_served_at_Kaffebrenneriet_Torshov%2C_Oslo%2C_Norway_2_600x600_100KB.jpg/300px-Caff%C3%A8_latte_as_being_served_at_Kaffebrenneriet_Torshov%2C_Oslo%2C_Norway_2_600x600_100KB.jpg"
+}
   {
     "coffe_id": 2,
     "coffe_title": "Cappuccino",
