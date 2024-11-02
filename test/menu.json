@@ -2,60 +2,70 @@
   {
     "coffe_id": 1,
     "coffe_title": "Caffè Latte",
+    "coffe_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
     "coffee_thumbnails": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Latte_at_Doppio_Ristretto_Chiang_Mai_01_%28cropped%29.jpg/330px-Latte_at_Doppio_Ristretto_Chiang_Mai_01_%28cropped%29.jpg",
     "coffe_poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Caff%C3%A8_latte_as_being_served_at_Kaffebrenneriet_Torshov%2C_Oslo%2C_Norway_2_600x600_100KB.jpg/300px-Caff%C3%A8_latte_as_being_served_at_Kaffebrenneriet_Torshov%2C_Oslo%2C_Norway_2_600x600_100KB.jpg"
   },
   {
     "coffe_id": 2,
     "coffe_title": "Cappuccino",
+    "coffe_detail": "Espresso with steamed milk, topped with a deep layer of foam.",
     "coffee_thumbnails": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/A_cappuccino.jpg/270px-A_cappuccino.jpg",
     "coffe_poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cappuccino_at_Sightglass_Coffee.jpg/375px-Cappuccino_at_Sightglass_Coffee.jpg"
   },
   {
     "coffe_id": 3,
     "coffe_title": "Caffè Mocha",
+    "coffe_detail": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
     "coffee_thumbnails": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mocaccino-Coffee.jpg/300px-Mocaccino-Coffee.jpg",
     "coffe_poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mocha_coffee.jpg/375px-Mocha_coffee.jpg"
   },
   {
     "coffe_id": 4,
     "coffe_title": "Caramel Macchiato",
+    "coffe_detail": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day.",
     "coffee_thumbnails": "https://www.starbucksathome.com/id/sites/default/files/styles/rdp_banner_image/public/2021-05/100320",
     "coffe_poster": "https://www.starbucksathome.com/id/sites/default/files/styles/overview_banner_image/public/2021-05/1"
   },
   {
     "coffe_id": 5,
     "coffe_title": "Vanilla Sweet Cream Cold Brew",
-    "coffee_thumbnails": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_VanillaSweetCreamColdBrew.",
-    "coffe_poster": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_VanillaSweetCreamColdBrew."
+    "coffe_detail": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+    "coffee_thumbnails": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_VanillaSweetCreamColdBrew.jpg",
+    "coffe_poster": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_VanillaSweetCreamColdBrew.jpg"
   },
   {
     "coffe_id": 6,
     "coffe_title": "Cold Brew",
+    "coffe_detail": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals.",
     "coffee_thumbnails": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_913/k%2Farchive%2F9ea",
     "coffe_poster": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_913/k%2Farchive%2F9ea"
   },
   {
     "coffe_id": 7,
     "coffe_title": "Mango Passion Frappuccino",
-    "coffee_thumbnails": "https://images.unsplash.com/photo-1610481920873-634b594063a3",
-    "coffe_poster": "https://images.unsplash.com/photo-1610481920873-634b594063a3"
+    "coffe_detail": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
+    "coffee_thumbnails": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKaDFojEXAmPqTwHHE2aeAAT4Ik1O8RVwAxA&usqp=CAU",
+    "coffe_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKaDFojEXAmPqTwHHE2aeAAT4Ik1O8RVwAxA&usqp=CAU"
   },
   {
     "coffe_id": 8,
     "coffe_title": "Raspberry Currant Frappuccino",
-    "coffee_thumbnails": "https://images.unsplash.com/photo-1568537588258-dbdc74e3b2ba",
-    "coffe_poster": "https://images.unsplash.com/photo-1568537588258-dbdc74e3b2ba"
+    "coffe_detail": "Made with freshly brewed Teavana® tea, blended juice and ice.",
+    "coffee_thumbnails": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRka_tJkYcqUB6buqI9xA0eYCCLfQhD5l52iA&usqp=CAU",
+    "coffe_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRka_tJkYcqUB6buqI9xA0eYCCLfQhD5l52iA&usqp=CAU"
   },
   {
     "coffe_id": 9,
     "coffe_title": "Coffee Frappuccino",
-    "coffee_thumbnails": "https://images.unsplash.com/photo-1623960246024-2456b45a07a5",
-    "coffe_poster": "https://images.unsplash.com/photo-1623960246024-2456b45a07a5"
+    "coffe_detail": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side.",
+    "coffee_thumbnails": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy0iG9JdpZhc8lO8PwMC9KDoBoHV4AD5CTsPLpI5l-Y6w",
+    "coffe_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy0iG9JdpZhc8lO8PwMC9KDoBoHV4AD5CTsPLpI5l-Y6w"
   },
   {
     "coffe_id": 10,
     "coffe_title": "Mocha Frappuccino",
+    "coffe_detail": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
     "coffee_thumbnails": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy0iG9JdpZhc8lO8PwMC9KDoBoHV4AD5CTsPLpI5l-Y6w",
     "coffe_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy0iG9JdpZhc8lO8PwMC9KDoBoHV4AD5CTsPLpI5l-Y6w"
   }
